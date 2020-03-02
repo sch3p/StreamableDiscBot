@@ -1,4 +1,4 @@
-# StreamableDiscBot [WIP]
+# Streamable Discord Bot [WIP]
 A simple script to grab video files from local directory and upload to and parse Streamable JSON payload
 
 # Setup
