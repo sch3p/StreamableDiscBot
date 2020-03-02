@@ -1,16 +1,21 @@
 # Streamable Discord Bot [WIP]
-A simple script to grab video files from local directory and upload to and parse Streamable JSON payload
+A simple program to grab video files from local directory and upload to and parse Streamable JSON payload
 
 # Setup
 Credentials for Streamable and Discord API keys are currently handled in user-created `.env` file:
 ```
-streamableUser="STREAMABLE_USERNAME_HERE"
-streamablePass="STREAMABLE_PASSWORD_HERE"
-discUser="DISCORD_USERNAME_HERE"
-discPass="DISCORD_PASSWORD_HERE"
+streamableUser="username"
+streamablePass="pass"
+discordToken='token'
 ```
 
 # Usage
+Install Dependencies
 ```bash
-node watcher.js
+npm i
+```
+
+Start bot
+```bash
+node bot.js
 ```
