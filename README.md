@@ -5,7 +5,7 @@ A simple script to grab video files from local directory and upload to and parse
 Credentials for Streamable and Discord API keys are currently handled in user-created `.env` file:
 ```
 streamableUser="STREAMABLE_USERNAME_HERE"
-streamablePass="PASSWORD"
+streamablePass="STREAMABLE_PASSWORD_HERE"
 discUser="DISCORD_USERNAME_HERE"
 discPass="DISCORD_PASSWORD_HERE"
 ```
