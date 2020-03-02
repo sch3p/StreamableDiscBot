@@ -1,0 +1,22 @@
+{
+  "name": "streamablediscbot",
+  "version": "1.0.0",
+  "description": "A simple script to grab video files from local directory and upload to and parse Streamable JSON payload",
+  "main": "watcher.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sch3p/StreamableDiscBot.git"
+  },
+  "author": "Noah Schepers",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sch3p/StreamableDiscBot/issues"
+  },
+  "homepage": "https://github.com/sch3p/StreamableDiscBot#readme",
+  "dependencies": {
+    "http": "0.0.0"
+  }
+}
